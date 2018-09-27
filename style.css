@@ -1,4 +1,8 @@
-
+header{
+   color: green;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 30px;
+}
 h1{
    color: White;
    font-family: 'Montserrat', sans-serif;
