@@ -1,9 +1,11 @@
 
 h1{
+   color: white;
   font-size: 30px;
-  color: white;
 }
-h2
+h2{
+  color: red;
+  font-size: 20px;
 body{
 background-image: url(http://i.imgur.com/9jfisit.jpg);
 }
