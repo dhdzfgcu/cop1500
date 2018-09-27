@@ -1,6 +1,9 @@
 
-p{
-  font-size: 50px;
-  color: green;
+h1{
+  font-size: 30px;
+  color: white;
   
+}
+body{
+background-image: url(rain1.jpg);
 }
