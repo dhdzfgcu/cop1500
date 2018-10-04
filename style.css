@@ -33,3 +33,7 @@ background-color: black;
    font-size: 80px;
    color: White;
 }
+body{
+   background-image: url("https://i.postimg.cc/T3DSsMTJ/rain1.jpg") fixed;
+    background-size: cover;
+}
