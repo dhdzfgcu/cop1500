@@ -47,3 +47,8 @@ body{
    background: url("https://i.postimg.cc/T3DSsMTJ/rain1.jpg") fixed;
     background-size: cover;
 }
+.white_bg 
+{
+    background-color: #ffffff;
+    padding: 3px; /*add this if you want a bit of space around the text*/
+}
