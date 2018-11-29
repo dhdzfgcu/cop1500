@@ -47,3 +47,6 @@ body{
    background: url("https://i.postimg.cc/qM9KHq65/chill.jpg") fixed;
     background-size: cover;
 }
+.div{
+   opacity: 0.5;
+}
