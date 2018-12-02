@@ -56,12 +56,14 @@
    <a href='https://www.youtube.com/watch?v=EzLfq96XRcA' target='_blank'>.<canvas id="Canvas" width="700" height="100" style="border:1px solid #f9f9f9;"> </canvas></a>
     <br/>
 <script>
-  var c = document.getElementById("Canvas");
-  var ctx = c.getContext("2d");
-  ctx.font = "40px Arial";
-  ctx.fillText("Co-Captain of the Varsity Tennis Team in High School",20,50);
-  ctx.fillStyle = "white";
-  ctx.textAlign = "center";
+  var canvas = document.getElementById("myCanvas");
+var ctx=canvas.getContext("2d");
+ctx.font="40px Arial";
+ctx.fillStyle = "red";
+ctx.textAlign = "center";
+ctx.fillText("Hello World", canvas.width/2, canvas.height/2);
+</script>
+
     </script>
     <br/>
 <svg height="130" width="500">
@@ -73,10 +75,12 @@
 <video width="320" height="240" controls>
   <source src="output.mp4" type="video/mp4">
 </video>
+    <div style="background-color:#cccccc; text-align:left; vertical-align: middle; padding:20px 47px;">
     <h5>
       <header><a href="fields report.pdf" target = _blank>Fields Report</a></header>
       <br/>
     </h5>
+    </div>
   </body>
    
 </html>
