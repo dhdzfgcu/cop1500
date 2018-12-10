@@ -36,6 +36,9 @@ header{
 }
  .listy{
      font-style: italic;
+     color: black;
+     font-family: 'Montserrat', sans-serif;
+     font-size: 30px;
 }
  #midsec{
      opacity: 1;
