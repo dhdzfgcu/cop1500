@@ -1,53 +1,52 @@
 header{
-   color: black;
-   font-family: 'Montserrat', sans-serif;
-   font-size: 50px;
+     color: black;
+     font-family: 'Montserrat', sans-serif;
+     font-size: 50px;
 }
-h1{
-   color: black;
-   font-family: 'Montserrat', sans-serif;
-  font-size: 30px;
+ h1{
+     color: black;
+     font-family: 'Montserrat', sans-serif;
+     font-size: 30px;
 }
-h2{
-  color: black;
-   font-family: 'Montserrat', sans-serif;
-  font-size: 30px;
+ h2{
+     color: black;
+     font-family: 'Montserrat', sans-serif;
+     font-size: 30px;
 }
-h3{
-   color: black;
-   font-family: 'Montserrat', sans-serif;
-   font-size: 20px;
+ h3{
+     color: black;
+     font-family: 'Montserrat', sans-serif;
+     font-size: 20px;
 }
-h4{
-   color: black;
-   font-family: 'Montserrat', sans-serif;
-   font-size: 30px;
+ h4{
+     color: black;
+     font-family: 'Montserrat', sans-serif;
+     font-size: 30px;
 }
-h5{
-   color: black;
-   font-family: 'Montserrat', sans-serif;
-   font-size: 30px;
+ h5{
+     color: black;
+     font-family: 'Montserrat', sans-serif;
+     font-size: 30px;
 }
-body{
-background-color: black;
+ body{
+     background-color: black;
 }
-.listy{
-   font-style: italic;
+ .listy{
+     font-style: italic;
 }
-#midsec{
-   
-   opacity: 1;
+ #midsec{
+     opacity: 1;
+}
+ #freak{
+     font-size: 80px;
+     color: black;
+     font-family: 'Montserrat', sans-serif;
+}
+ body{
+     background: url("https://i.postimg.cc/qM9KHq65/chill.jpg") fixed;
+     background-size: cover;
+}
+ div{
+     opacity: 0.7;
 }
 
-#freak{
-   font-size: 80px;
-   color: black;
-   font-family: 'Montserrat', sans-serif;
-}
-body{
-   background: url("https://i.postimg.cc/qM9KHq65/chill.jpg") fixed;
-    background-size: cover;
-}
-div{
-   opacity: 0.7;
-}
