@@ -1,5 +1,7 @@
+/*Darian Hernandez CSS*/
 header{
      color: black;
+     /* I wanted a new font, so I used Google fonts to find one I liked (https://fonts.google.com/)*/
      font-family: 'Montserrat', sans-serif;
      font-size: 50px;
 }
@@ -23,6 +25,7 @@ header{
      font-family: 'Montserrat', sans-serif;
      font-size: 30px;
 }
+/*Now I realize that a lot of h classes could've been condensed into 1, but I completely forgot to do it*/
  h5{
      color: black;
      font-family: 'Montserrat', sans-serif;
@@ -47,6 +50,7 @@ header{
      background-size: cover;
 }
  div{
+      /* I had to lower the opacity of the background to make it look pretty*/
      opacity: 0.7;
 }
 
